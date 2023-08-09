@@ -50,6 +50,7 @@ This repository will serve as the platform for Reporting and Monitoring.
 
 # Diagram Explaining Project and Repository Context and Integration
 
+![Screenshot (3)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/ce8ede40-9cb3-4f6a-a2d6-03fcc8e3e56c)
 
 # Branching Strategy to be used for each Project
 **Project 1:** 
