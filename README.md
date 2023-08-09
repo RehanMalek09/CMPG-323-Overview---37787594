@@ -16,3 +16,10 @@
 #### Project 5:
 -CMPG Project 5-37787594
 
+# Diagram Explaining Project and Repository Context and Integration
+
+# Branching Strategy to be used for each Project
+
+# The use of .gitignore
+
+# Storage of Credentials and Sensitive Information
