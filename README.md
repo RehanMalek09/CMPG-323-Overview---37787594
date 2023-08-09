@@ -76,4 +76,5 @@ Regarding the storage of credentials and sensitive information, it's imperative 
 
 The chart will be updated as the sprints are completed.
 
-![Screenshot (4)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/0082da55-86c6-4f93-a9bf-bf0ad862226a)
+![Screenshot (5)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/9473c6c0-3679-4da6-aa42-07a93a0df107)
+
