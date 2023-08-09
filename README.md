@@ -52,6 +52,7 @@ This repository will serve as the platform for Reporting and Monitoring.
 
 ![Screenshot (3)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/ce8ede40-9cb3-4f6a-a2d6-03fcc8e3e56c)
 
+Arrows going down indicate tasks that need to be completed and arrows going up indicate tasks that have been completed.
 # Branching Strategy to be used for each Project
 **Project 1:** 
 Trunk based development is used with the "main" branch.
