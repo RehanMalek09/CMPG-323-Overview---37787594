@@ -19,9 +19,10 @@ EcoPower Logistics' global logistics solutions involve data sharing through Powe
 **Project 1:** 
 
 -Overview repository
+
 https://github.com/RehanMalek09/CMPG-323-Overview---37787594
 
-This repository will keep track of all the other repositories
+This repository will keep track of all the other repositories.
 
 **Project 2:**
 
@@ -49,8 +50,21 @@ This repository will serve as the platform for Reporting and Monitoring.
 
 # Diagram Explaining Project and Repository Context and Integration
 
+
 # Branching Strategy to be used for each Project
+**Project 1:** 
+Trunk based development is used with the "main" branch.
+
+**Project 2:**
+This project will employ feature branching, creating separate branches for new tasks or features.
+
+**Projects 3, 4, and 5 branching strategy will be decided after completing the initial projects.**
+
 
 # The use of .gitignore
 
+Regarding the use of a .gitignore file, it excludes files and folders from version control, ensuring irrelevant items aren't monitored. For Project 1, since there's no coding involved, a .gitignore file might not be necessary.
+
 # Storage of Credentials and Sensitive Information
+
+Regarding the storage of credentials and sensitive information, it's imperative to safeguard such data. Encryption methods like AES and DES, as well as hashing, are employed for data protection. Role-based access control limits data access. Reliable systems with security measures like firewalls ensure private information's safety.
