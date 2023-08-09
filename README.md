@@ -50,9 +50,9 @@ This repository will serve as the platform for Reporting and Monitoring.
 
 # Diagram Explaining Project and Repository Context and Integration
 
+Arrows going down indicate tasks that need to be completed and arrows going up indicate tasks that have been completed.
 ![Screenshot (3)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/ce8ede40-9cb3-4f6a-a2d6-03fcc8e3e56c)
 
-Arrows going down indicate tasks that need to be completed and arrows going up indicate tasks that have been completed.
 # Branching Strategy to be used for each Project
 **Project 1:** 
 Trunk based development is used with the "main" branch.
@@ -70,3 +70,9 @@ Regarding the use of a .gitignore file, it excludes files and folders from versi
 # Storage of Credentials and Sensitive Information
 
 Regarding the storage of credentials and sensitive information, it's imperative to safeguard such data. Encryption methods like AES and DES, as well as hashing, are employed for data protection. Role-based access control limits data access. Reliable systems with security measures like firewalls ensure private information's safety.
+
+# Burndown Chart 
+
+The chart will be updated as the sprints are completed.
+
+![Screenshot (4)](https://github.com/RehanMalek09/CMPG-323-Overview---37787594/assets/130663487/0082da55-86c6-4f93-a9bf-bf0ad862226a)
