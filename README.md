@@ -1,5 +1,20 @@
 # CMPG-323-Overview---37787594
 
+# Project 1
+This project delves into Agile project management with a focus on Scrum and Kanban methodologies. Scrum aids software teams in delivering incremental value by adapting to changes, enhancing teamwork, and fostering communication. Kanban, on the other hand, provides transparency, balanced workloads, and data-driven enhancements to streamline value delivery.
+
+# Project 2
+EcoPower Logistics is developing a RESTful API to enhance their logistics operations and customer service. This API will connect to a database, enabling CRUD operations on logistics data.
+
+# Project 3
+An existing ASP.NET Core MVC Web Application will be enhanced. The focus is on architectural patterns and coding principles implementation.
+
+# Project 4
+This project emphasizes testing processes, including user acceptance testing (UAT). Robotic Process Automation (RPA) is recommended for automating repetitive tasks, particularly in scenarios like web application testing.
+
+# Project 5
+EcoPower Logistics' global logistics solutions involve data sharing through Power BI visual reports. The development team will acquire skills to create these reports for order and sales monitoring.
+
 # Repositories needed for each project:
 #### Project 1: 
 -Overview repository
