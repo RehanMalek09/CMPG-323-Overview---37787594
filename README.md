@@ -18,6 +18,7 @@ EcoPower Logistics' global logistics solutions involve data sharing through Powe
 # Repositories needed for each project:
 #### Project 1: 
 -Overview repository
+https://github.com/RehanMalek09/CMPG-323-Overview---37787594
 
 #### Project 2:
 -CMPG Project 2-37787594
